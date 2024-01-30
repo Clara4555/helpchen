@@ -1,0 +1,24 @@
+#TO CREATE A GITHUB ACCOUNT AND REPO CLONING
+To create a GitHub account and clone repositories to your local machine, follow these steps chen:
+
+1) Go to github.com on device and log in if you don't have an account sign up for a new account.
+
+2)once logged in create github personal token and set it for 30days or as long you want it .
+
+3)Create a repository you want to clone to your local machine
+
+4)open your terminal on your local machine
+
+5)Navigate to the directory you want to clone the repository use the command cd to navigate to the directory
+
+6)in the directory type the following command to clone the repo:
+
+git clone https://token-generated@github.com/Githubusername/repocreated
+
+7) replace token with github token , username with your username and repo with the name of the repo you already created.
+
+8) After executing the clone command , navigate into the cloned repo
+by using the cd command ..
+ 
+
+ yayyyy now you have successfully created a github account and clone a repository to your local machine i hope this was helpful...

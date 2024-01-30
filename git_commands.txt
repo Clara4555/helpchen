@@ -1,0 +1,46 @@
+#git commands and functions
+
+1)git reset [file] 
+unstage a file while retaining the changes in working
+
+2)git diff --staged: diff of what is staged but not yet commited 
+
+3)git init : Initializes a new Git repository.
+
+4)git commit -m <message>: Commits changes to the repository with a message.
+
+5)git pull: Fetches changes from a remote repository and merges them.
+
+6)git push: Pushes local changes to a remote repository.
+
+7)git add <file>: Adds a file to the staging area.
+
+8.) git status: Shows the status of changes as untracked, modified, or staged.
+
+9) git log: Displays the commit history.
+
+10) git branch: Lists all branches in the repository.
+
+
+11)git checkout <branch>: Switches to the specified branch.
+
+12) git merge <branch>: Merges changes from one branch into the current branch.
+
+13)git rm : [file] :delete the file from project and stage the removal for commit 
+
+14) git mv [existing-path] [new-path] :change an existing file path and stage the move git log --stat -M 
+
+15)git clone [url]: retrieve an entire repository from a hosted location via URL  
+
+16) git rebase [branch] :apply any commits of current branch ahead of specified one git reset --hard [commit] 
+
+
+17)git show <tag_name>: Displays the details of a particular tag.
+
+18)git branch -d <branch_name>: Deletes the specified branch.
+
+19)git remote -v: Displays the URLs that Git has stored for the remote repository, allowing you to see where your code will be pushed or pulled.
+
+
+20)git stash :Save modified and staged changes 
+

@@ -1,0 +1,10 @@
+To install git on local machine, follow this steps chen:
+
+1) open a terminal on your machine
+2)Execute this commands: sudo apt-get update 
+                         sudo apt-get install git
+
+3)verify the installation by running git --version
+git has successfully been installed in your local machine
+i hope it works chen goodluck
+
